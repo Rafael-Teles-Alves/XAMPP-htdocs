@@ -1,5 +1,5 @@
-# XAMPP-htdocs
-Arquivos das pasta Só Copiar Apartir do # para baixo e colar o arquivo.
+# XAMPP htdocs Apache(httpd.conf)
+Arquivos das pasta Apache(httpd.conf)  Só Copiar Apartir do # para baixo e colar o arquivo no bloco de nota arquivo Padrão.
 
 #
 # This is the main Apache HTTP server configuration file.  It contains the
